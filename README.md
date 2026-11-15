@@ -10,4 +10,4 @@ This is a simple website, where I keep a few classic recipes, just so that they 
 ## How do I open it?
 You can access the page by opening https://arkdyl.github.io/family-recipes/ in your new tab. You can access it using any browser you want!
 
-Made with HTML and CSS by binarek (arkdyl).
+Made by binarek (arkdyl).
