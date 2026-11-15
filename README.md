@@ -1,6 +1,6 @@
 # Family Recipes
 
-This is a simple website, where I keepa few classic recipes, just so that they don't get lost.
+This is a simple website, where I keep a few classic recipes, just so that they don't get lost.
 
 ## What is inside?
 * A list of three simple dishes.
