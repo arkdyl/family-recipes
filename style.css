@@ -23,3 +23,22 @@ h1 {
     font-style: italic;
     color: #555555
 }
+
+.recipe-card {
+    border: 1px solid #999999;
+    padding: 20px;
+    margin-bottom: 25px;
+    background-color: #f9f9f9;
+}
+
+.recipe-card h2 {
+    margin-top: 0;
+    font-size: 1.3rem;
+    border-bottom: 1px dotted #999999;
+    padding-bottom: 5px;
+}
+
+.description {
+    color: #444444;
+    font-style: italic;
+}
