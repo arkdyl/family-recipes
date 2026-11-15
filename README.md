@@ -8,4 +8,4 @@ This is a simple website, where I keepa few classic recipes, just so that they d
 * Clean black-and-white design, that is easy to read and print.
 
 ## How do I open it?
-You can access the page by opening https://arkdyl.github.io/family-recipes/ in your new tab. It works on every browser!
+You can access the page by opening https://arkdyl.github.io/family-recipes/ in your new tab. You can access it using any browser you want!
