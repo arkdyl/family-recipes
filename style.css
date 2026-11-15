@@ -1,0 +1,25 @@
+body {
+    font-family: Georgia, serif;
+    background-color: #ffffff;
+    color: #111111;
+    max-width: 600px;
+    margin: 40px auto;
+    padding: 0 20px;
+    line-height: 1.6;
+}
+
+header {
+    border-bottom: 2px solid #111111;
+    margin-bottom: 30px;
+    padding-bottom: 10px;
+}
+
+h1 {
+    font-size: 2rem;
+    margin-bottom: 5px;
+}
+
+.subtitle {
+    font-style: italic;
+    color: #555555
+}
